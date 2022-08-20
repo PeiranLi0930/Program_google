@@ -1,5 +1,7 @@
 package Restaurant_ArrayList;
 
+import java.util.Objects;
+
 /**
  * Review the rate and comments of a restaurant.
  * Use Review.helpReview() to see how to use this class
@@ -21,6 +23,10 @@ public class Review {
     System.out.println("Create Object: new Review(int rate, String Comment)");
   }
 
+  public Review() {
+    this.rating = -1;
+    this.comment = "None";
+  }
   // constructor for setting the rate and comment
   public Review(int rate, String comment) {
     this.rating = rate;

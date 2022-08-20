@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0af3bb2a-c50b-4c77-a64a-56e23faf71aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Review.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Reviews.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Restaurant.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Restaurants_Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restaurant_ArrayList/Review.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Review.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Restaurant_ArrayList/Reviews.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Restaurant_ArrayList/Reviews.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +71,7 @@
       <updated>1659817748826</updated>
       <workItem from="1659817749988" duration="3000000" />
       <workItem from="1659910134041" duration="2000" />
-      <workItem from="1661022266361" duration="866000" />
+      <workItem from="1661022266361" duration="2793000" />
     </task>
     <servers />
   </component>
